@@ -1,11 +1,6 @@
 # Socially 📱
 
 **Socially** is a high-performance, native Android social media ecosystem. Unlike simple wrappers, Socially implements a hybrid architecture combining a **PHP REST API** for data persistence, **Firebase** for real-time signaling, and **Agora SDK** for carrier-grade voice and video communication. 
-
-<p align="center">
-  <img src="./assets/app-mockup.png" alt="Socially App Mockup" width="80%" />
-</p>
-
 ---
 
 ## 🚀 Key Features
@@ -19,11 +14,6 @@
 - **Real-Time Chat:** Powered by a mix of PHP polling and Firebase Cloud Messaging (FCM).
 - **Vanish Mode:** Ephemeral messaging where content disappears after being viewed.
 - **Privacy First:** Native screenshot detection that alerts users when a conversation is captured.
-
-<p align="center">
-  <img src="./assets/chat-features.png" alt="Chat UI and Vanish Mode" width="45%" />
-  <img src="./assets/video-call.png" alt="Agora Video Call Interface" width="45%" />
-</p>
 
 ### 📞 Real-Time Communication
 - **Voice & Video Calls:** Integrated **Agora RTC SDK** for high-quality, low-latency calling.
